@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "lucide-react": "^1.31.0",
+    "moneymate-expense-tracker": "file:../expense-tracker",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
